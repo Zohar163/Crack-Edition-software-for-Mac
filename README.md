@@ -207,7 +207,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 
 
-### 8. <a name="9">Photoshop cc 2019 mac</a>
+### 9. <a name="9">Photoshop cc 2019 mac</a>
 ***
 
 #####   Software introduction
@@ -242,7 +242,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 ![ps6](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps6.png)
 
 > If individual users log on to the ID, home page may show the remaining days or the end of the trial, please ignore it and do not affect the use.
-Optimization: Enable Photoshop CC 2019 cracked version, we can open the preferences in the PS software menu bar, check "Deactivate home page" screen, and click OK! This way, each time you open PS, you won't always prompt to load the home screen and card it on the login page.
+  Optimization: Enable Photoshop CC 2019 cracked version, we can open the preferences in the PS software menu bar, check "Deactivate home page" screen, and click OK! This way, each time you open PS, you won't always prompt to load the home screen and card it on the login page.
 
 ## License
 ```
