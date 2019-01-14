@@ -21,6 +21,7 @@ Mac 各类破解版软件
 * <a href="#6">Navicat Premium mac(数据库管理工具)</a>
 * <a href="#7">CorelCAD 2018 for Mac(CAD设计软件)</a>
 * <a href="#8">SecureCRT for Mac(SSH传输工具)</a>
+* <a href="#9">Photoshop cc 2019 mac(附ps2019破解补丁)</a>
 
 
 ## 如何使用
@@ -131,7 +132,7 @@ Mac 各类破解版软件
 >__安装自动破解__
 
 ##### 软件相关截图
-![clear my Mac](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/mwb.png)
+![MWeb](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/mwb.png)
 
 ### 6. <a name="6">Navicat Premium mac</a>
 ***
@@ -148,7 +149,7 @@ Mac 各类破解版软件
 >__安装自动破解__
 
 ##### 软件相关截图
-![clear my Mac](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ntv.png)
+![Navicat](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ntv.png)
 
 
 
@@ -172,7 +173,7 @@ Mac 各类破解版软件
 
 3. __尽情的享用吧__
 
-![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
+![cad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
 
 
 ### 8. <a name="8">SecureCRT for Mac(SSH传输工具)</a>
@@ -187,22 +188,58 @@ Mac 各类破解版软件
 ##### 破解方式
 1. __打开软件包，拖动软件【SecureCRT】到应用程序进行安装.__
 
-![cad_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_1.png)
+![SecureCRT1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_1.png)
 
 2. __打开SecureCRT软件，跳出注册页面，如图__
 
-![cad_2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_2.png)
+![SecureCRT33](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_2.png)
 
 3. __打开SecureCRT破解版镜像包中的SecureCRT注册码贴入SecureCRT软件，并点击Done__
 
-![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_3.png)
+![SecureCRT2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_3.png)
 
 4. __选择【without a ...】,点击【ok】即可！__
 
-![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_4.png)
+![SecureCRT3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_4.png)
 
 
 
+### 9. <a name="9">Photoshop cc 2019 mac(附ps2019破解补丁)</a>
+***
+
+#####    软件说明
+>_全新Adobe Photoshop CC 2019 mac破解版终于更新啦，简称ps cc 2019，是Adobe官方推出的最新版图像编辑软件！在最新的PS CC 2019中，添加了多项全新功能，包括选择对象、改进了对高分辨率显示器的支持、改进了选择并蒙版功能、更好的与Microsoft Dial 集成等等！只要您能想得到，您便可以使用 Photoshop 2019图像和设计软件将您想象中的内容制作出来。本站提供Photoshop CC 2019 mac中文破解版下载，附ps2019破解补丁，可以完美破解ps 2019,永久使用！_
+
+#####  下载地址
+[点击下载](http://mdown.orsoon.com:5898/mac/201810/f287b473b24825ce62aad3e5cc489671.dmg?Jf6rqOah)
+
+##### 破解方式
+> 提供两种破解方式，断网破解，联网破解(需要登陆Adobe ID)，建议采用断网破解。
+1. __断开网络，打开ps2019破解版安装包，双击Install进行安装__
+
+![ps1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps1.png)
+
+2. __等待安装完成，如下图__
+
+![ps2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps2.png)
+
+3. __安装完成会显示无法访问订阅状态页面，如下图，关闭该页面并打开ps2019破解补丁__
+
+![ps3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps3.png)
+
+![ps4](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps4.png)
+
+
+4. __点击patch or drag,点击ok，输入密码，弹出如下页面标示破解成功__
+
+![ps5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps5.png)
+
+5. 尽情享用吧
+
+![ps6](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps6.png)
+
+> 个别用户若登录ID、主页可能会显示剩余天数或试用结束，请无视之，不影响使用。
+> 优化篇：启用Photoshop CC 2019破解版，我们可以打开ps软件菜单栏中的首选项，勾选【停用“主页”屏幕】，然后点击确定！这样每次打开ps就不会一直提示载入主页屏幕，卡在登录页面
 
 ## License
 ```

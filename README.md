@@ -3,7 +3,7 @@ Crack Edition software for Mac
 _Collect all kinds of Mac cracking software and keep updating. If you do not find the software you need, please submit it in Issues and I will complete it the first time. If it helps you, take a like._
 
 ![](https://img.shields.io/badge/license-Apache%202-green.svg)
-![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Jason-orange.svg)
+![](https://img.shields.io/badge/Author-Jason-orange.svg)
 ![](https://img.shields.io/badge/QQ-3648415-brightgreen.svg)
 ![](https://img.shields.io/badge/😊-Can_u_give_me_a_star-brightgreen.svg)
 ****
@@ -22,6 +22,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#6">Navicat Premium mac</a>
 * <a href="#7">CorelCAD 2018 for Mac</a>
 * <a href="#8">SecureCRT for Mac</a>
+* <a href="#9">Photoshop cc 2019 mac</a>
 
 
 ## How to use it
@@ -150,7 +151,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 >__Install directly to automatically crack__
 
 ##### Software screenshot
-![clear my Mac](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ntv.png)
+![Navicat](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ntv.png)
 
 
 ### 7. <a name="7">CorelCAD 2018 for Mac</a>
@@ -174,7 +175,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 3. __Enjoy.__
 
-![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
+![cad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
 
 
 ### 8. <a name="8">SecureCRT for Mac</a>
@@ -189,20 +190,58 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 ##### Cracking Method
 1. __Open the package and drag the software[SecureCRT] to the application for installation.__
 
-![cad_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_1.png)
+![SecureCRT1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_1.png)
 
 2. __Open SecureCRT software and jump out of the registration page, like this__
 
-![cad_2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_2.png)
+![SecureCRt2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_2.png)
 
 3. __Open the SecureCRT registration code in the SecureCRT cracked version of the mirror package and paste it into SecureCRT software and click on Done__
 
-![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_3.png)
+![SecureCRT3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_3.png)
 
 4. __Select [with about a. .. .. ], click on [OK]__
 
 ![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/secure_4.png)
 
+
+
+### 8. <a name="9">Photoshop cc 2019 mac</a>
+***
+
+#####   Software introduction
+>_The new Adobe Photoshop CC 2019 Mac cracking version has finally been updated, referred to as PS CC 2019, and is the latest version of Adobe's official image editing software! In the latest PS CC 2019, a number of new features have been added, including object selection, improved support for high-resolution displays, improved selection and mask functionality, and better integration with Microsoft Dial! As long as you can imagine, you can use Photoshop 2019 images and design software to create your imaginary content. This site provides Photoshop CC 2019 Mac Chinese cracking version download, with ps2019 cracking patch, can perfectly break the PS 2019, permanent use!_
+
+#####  Download
+[Download](http://mdown.orsoon.com:5898/mac/201810/f287b473b24825ce62aad3e5cc489671.dmg?Jf6rqOah)
+
+##### Cracking Method
+> Provide two cracking methods, broken network cracking, and network cracking(need to log on to Adobe ID). It is recommended to use broken network cracking.
+1. __Disconnect the network, open the PS 2019 cracked installation package, double-click Install for installation__
+
+![ps1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps1.png)
+
+2. __Waiting for installation to be completed, like this__
+
+![ps2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps2.png)
+
+3. __After installation, the subscription status page is not accessible, as shown below, closing the page and opening the ps2019 crack patch__
+
+![ps3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps3.png)
+
+![ps4](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps4.png)
+
+
+4. __Click patch or drag, click OK, enter the password, and pop the following page to indicate success__
+
+![ps5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps5.png)
+
+5. Enjoy.
+
+![ps6](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/ps6.png)
+
+> If individual users log on to the ID, home page may show the remaining days or the end of the trial, please ignore it and do not affect the use.
+Optimization: Enable Photoshop CC 2019 cracked version, we can open the preferences in the PS software menu bar, check "Deactivate home page" screen, and click OK! This way, each time you open PS, you won't always prompt to load the home screen and card it on the login page.
 
 ## License
 ```
