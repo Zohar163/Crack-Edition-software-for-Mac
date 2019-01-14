@@ -54,7 +54,7 @@ Mac 各类破解版软件
 ##### 软件说明
 >在macOS High Sierra上读取和写入Windows NTFS驱动器
 
-与以前的版本一样，适用于Mac 2018的Tuxera NTFS为Windows NTFS格式的驱动器带来了对Mac的全面读写兼容性。我们的最新版本支持macOS High Sierra和Sierra，OS X El Capitan以及10.4（Tiger）以后的所有OS X版本。
+ 与以前的版本一样，适用于Mac 2018的Tuxera NTFS为Windows NTFS格式的驱动器带来了对Mac的全面读写兼容性。我们的最新版本支持macOS High Sierra和Sierra，OS X El Capitan以及10.4（Tiger）以后的所有OS X版本。
 如果您刚刚从Windows切换到Mac，则可能无法复制，编辑或删除存储在您用于Windows PC的USB存储棒或外部硬盘驱动器中的文件。这是因为开箱即用，Apple的操作系统macOS只允许您读取使用Windows PC格式化的文件系统上存储的文件。使用NTFS for Mac 2018，您可以轻松访问，编辑，存储和传输PC和Mac之间的文件。
 
 #####  下载地址
@@ -185,6 +185,7 @@ Mac 各类破解版软件
 #####  下载地址
 [点击下载](https://mac2.orsoon.com/mac/201808/SecureCRT_zxz.dmg?Yr9pdYd5)
 
+[同版本SecureFX](https://mac2.orsoon.com/mac/201711/SecureFX_wqadbj.dmg?ELazvNsu)(按需下载)
 ##### 破解方式
 1. __打开软件包，拖动软件【SecureCRT】到应用程序进行安装.__
 

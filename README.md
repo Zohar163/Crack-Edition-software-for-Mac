@@ -186,6 +186,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 #####  Download
 [Download](https://mac2.orsoon.com/mac/201808/SecureCRT_zxz.dmg?Yr9pdYd5)
+[SecureFX](https://mac2.orsoon.com/mac/201711/SecureFX_wqadbj.dmg?ELazvNsu)(Download on request)
 
 ##### Cracking Method
 1. __Open the package and drag the software[SecureCRT] to the application for installation.__
