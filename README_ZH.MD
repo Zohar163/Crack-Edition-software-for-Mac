@@ -20,7 +20,7 @@ Mac 各类破解版软件
 * <a href="#5">MWeb(最好用的Markdown编辑器)</a>
 * <a href="#6">Navicat Premium mac(数据库管理工具)</a>
 * <a href="#7">CorelCAD 2018 for Mac(CAD设计软件)</a>
-* <a href="#8">SecureFX for Mac(SSH传输工具)</a>
+* <a href="#8">SecureCRT for Mac(SSH传输工具)</a>
 
 
 ## 如何使用
@@ -175,7 +175,7 @@ Mac 各类破解版软件
 ![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
 
 
-### 8. <a name="8">SecureFX for Mac(SSH传输工具)</a>
+### 8. <a name="8">SecureCRT for Mac(SSH传输工具)</a>
 ***
 
 #####    软件说明

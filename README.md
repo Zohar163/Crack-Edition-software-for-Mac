@@ -21,7 +21,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#5">MWeb</a>
 * <a href="#6">Navicat Premium mac</a>
 * <a href="#7">CorelCAD 2018 for Mac</a>
-* <a href="#8">SecureFX for Mac</a>
+* <a href="#8">SecureCRT for Mac</a>
 
 
 ## How to use it
@@ -177,7 +177,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 ![ccad_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cad_3.png)
 
 
-### 8. <a name="8">SecureFX for Mac</a>
+### 8. <a name="8">SecureCRT for Mac</a>
 ***
 
 #####   Software introduction
