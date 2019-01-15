@@ -24,6 +24,7 @@ Mac 各类破解版软件
 * <a href="#9">Photoshop cc 2019 mac(附ps2019破解补丁)</a>
 * <a href="#10">Final Cut Pro X for Mac(FCPX专业视频剪辑软件最新破解版)</a>
 * <a href="#11">Edraw max for mac(亿图图示 mac)</a>
+* <a href="#12">Parallels Desktop13 for Mac(PD虚拟机)</a>
 
 
 ## 如何使用
@@ -324,6 +325,22 @@ Mac 各类破解版软件
 ![yt_9](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_9.png)
 
 
+
+
+### 12. <a name="12">Parallels Desktop13 for Mac(PD虚拟机)</a>
+***
+
+#####    软件说明
+>_PD虚拟机最新版本Parallels Desktop13 for Mac13.3.1版本震撼来袭，非常开心由本站第一时间为大家带来这款parallels desktop for Mac 中文破解版，这款Parallels Desktop13 Mac破解版虚拟机是大名鼎鼎，它可以自由切换win与mac的完美切换，并且可以独立运行，且完美支持Windows 10，兼容最新10.13macOS High Sierra系统。_
+
+#####  下载地址
+[点击下载](https://mac2.orsoon.com//2017/04/soft/Parallels_Desktop13dslsi.dmg?zOyLEMdf)
+
+##### 破解方式
+> __正常流程安装完成运行即破解__
+
+##### 软件相关截图
+![pd_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pd_1.png)
 ## License
 ```
 Copyright 2019, Jason
