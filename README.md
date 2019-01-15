@@ -385,6 +385,12 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 
 > Note. __If there is an error in the middle, please right click on WeChat Assistant, find this file -> Show Package Content -> Contents -> Data -> Install.sh, drag it into the terminal and press the enter__
+##### Software screenshot
+
+
+
+![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png)
+
 ## License
 ```
 Copyright 2019, Jason

@@ -374,6 +374,11 @@ Mac 各类破解版软件
 
 > 注意.__如果中途出现错误，请右键点击微信小助手，找到这个文件 -> 显示包内容 -> Contents -> Data -> Install.sh，把它拖入终端并按下会车，输入密码即可__
 
+
+##### 软件相关截图
+
+![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png)
+
 ## License
 ```
 Copyright 2019, Jason
