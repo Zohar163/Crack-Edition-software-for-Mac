@@ -23,6 +23,7 @@ Mac 各类破解版软件
 * <a href="#8">SecureCRT for Mac(SSH传输工具)</a>
 * <a href="#9">Photoshop cc 2019 mac(附ps2019破解补丁)</a>
 * <a href="#10">Final Cut Pro X for Mac(FCPX专业视频剪辑软件最新破解版)</a>
+* <a href="#11">Edraw max for mac(亿图图示 mac)</a>
 
 
 ## 如何使用
@@ -274,6 +275,54 @@ Mac 各类破解版软件
 4. __尽情的享受吧（只有第一次需要用这种方法打开，以后不用每次都这么操作）__
 
 ![cut5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_5.png)
+
+
+
+
+
+
+### 11. <a name="11">Edraw max for mac(亿图图示 mac)</a>
+***
+
+#####    软件说明
+>_Edraw Max for mac破解版(亿图图示 mac)是mac上一款非常强大的综合图示绘制软件，可以帮助您轻松创建流程图、网络拓扑图、组织结构图、商业图表、工程图，思维导图、软件设计图和平面布局图等等！而且Edraw Max mac 中文破解版使用的范围非常的广泛，包含了3D 图形、方向图、软件设计、UML等，亿图图示 mac 破解版广泛运用于各大商业，企业，教育事业，以及个人工作需求，非常不错，小编现为您带来亿图图示 mac破解版下载内附Edraw Max 注册机，需要的朋友千万不要错过哦！_
+
+#####  下载地址
+[点击下载](https://mac2.orsoon.com/mac/201809/12379b107855c44eb3e16de7ffec7069.dmg?G3j0gKZa)
+
+##### 破解方式
+> 必须 断网破解！！！断网破解！！！断网破解！！！断网破解！！！
+1. __打开软件包，拖动软件【Edraw Max】到应用程序进行安装.__
+
+![yt_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_1.png)
+
+2. __打开补丁包，将左边的opt和Cellar文件夹拖到右边的local文件夹，并点击坚定输入密码，流程如下图：__
+
+![yt_2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_2.png)
+
+![yt_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_3.png)
+
+![yt_4](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_4.png)
+
+3. __打开软件，把语言设置成中文（option -> language ->Chinese）重启软件__
+
+![yt_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_5.png)
+
+
+4. __软件重启后随便双击一个图形，依次点击帮助 -> 激活__
+
+![yt_6](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_6.png)
+5. 打开EdrawMax注册机.app,并点击生成按钮(部分电脑生成的文本不会显示，需要鼠标在输入框内点击，并按下全选键才能显示)
+
+![yt_7](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_7.png)
+6. 复制密钥到软件中，在用户名和产品密钥一栏全部填写密钥，点击激活，弹出激活失败，点击ok会弹出输入激活码和手动激活按钮，产品密钥写注册机生成的密钥，激活码填注册机生成的激活码，用户名随便写，点击手动激活。重启软件。
+
+![yt_8](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_8.png)
+
+7. 尽情享用吧!
+
+![yt_9](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/yt_9.png)
+
 
 ## License
 ```
