@@ -27,7 +27,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 
 
 ## How to use it
-_Select the software folder you want, click on the button to the last page to download it individually, and you can also clone this project locally._
+_Click on the software you need in the directory, jump to the intro, and see the words "click to download" and click frantically._
 ## Warning...
 _If the software I provide actually improves your productivity, please click **Star** to support it!_
 
