@@ -25,6 +25,8 @@ Mac 各类破解版软件
 * <a href="#10">Final Cut Pro X for Mac(FCPX专业视频剪辑软件最新破解版)</a>
 * <a href="#11">Edraw max for mac(亿图图示 mac)</a>
 * <a href="#12">Parallels Desktop13 for Mac(PD虚拟机)</a>
+* <a href="#13">WeChatPlugin for Mac(mac微信小助手)</a>
+
 
 
 ## 如何使用
@@ -341,6 +343,37 @@ Mac 各类破解版软件
 
 ##### 软件相关截图
 ![pd_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pd_1.png)
+
+
+### 13. <a name="13">WeChatPlugin for Mac(mac微信小助手)</a>
+***
+
+#####    软件说明
+>_微信小助手 mac版是mac上一款非常强大的微信插件，这款插件想必很多人都用过，其功能非常多，包括自动回复、消息防撤回、远程控制、微信多开、登录免认证、会话多选删除等。如果你需要一个可以让你的微信客户端更强大的插件，可以试试这款微信小助手 mac版，真的超级好用。_
+
+#####  下载地址
+[点击下载](http://mdown.orsoon.com:5898/mac/201812/73a10537c8be0924983aaef0d606e3be.dmg?xvsobhNu)
+
+##### 破解方式
+1. __将左边的微信小助手拖到右边进行安装，如图：__
+
+![pl_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_1.png)
+
+2. __打开微信小助手点击安装,依次按照下图点击__
+
+![pl_2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_2.png)
+
+
+![pl_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_3.png)
+
+
+![pl_4](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_4.png)
+
+
+3. __登陆微信,尽情的享受吧__
+
+> 注意.__如果中途出现错误，请右键点击微信小助手，找到这个文件 -> 显示包内容 -> Contents -> Data -> Install.sh，把它拖入终端并按下会车，输入密码即可__
+
 ## License
 ```
 Copyright 2019, Jason

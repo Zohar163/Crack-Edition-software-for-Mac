@@ -26,6 +26,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#10">Final Cut Pro X for Mac</a>
 * <a href="#11">Edraw max for mac</a>
 * <a href="#12">Parallels Desktop13 for Mac</a>
+* <a href="#13">WeChatPlugin for Mac</a>
 
 
 ## How to use it
@@ -355,7 +356,35 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 ![pd_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pd_1.png)
 
 
+### 13. <a name="13">WeChatPlugin for Mac</a>
+***
 
+#####    Software introduction
+>_WeChat Assistant Mac version is a very powerful WeChat plugin on mac. This plugin must have been used by many people. It has many functions, including automatic reply, message anti-withdrawal, remote control, WeChat multi-open, login-free authentication. Multi-select session deletion, etc. If you need a plugin that can make your WeChat client more powerful, you can try this WeChat assistant mac version, which is really super easy to use._
+
+#####  Download
+[Download](http://mdown.orsoon.com:5898/mac/201812/73a10537c8be0924983aaef0d606e3be.dmg?xvsobhNu)
+
+##### Cracking Method
+1. __Drag the WeChat Assistant on the left to the right to install it, as shown in the figure:__
+
+![pl_1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_1.png)
+
+2. __Open WeChat Assistant and click Install, then click on the image below.__
+
+![pl_2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_2.png)
+
+
+![pl_3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_3.png)
+
+
+![pl_4](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_4.png)
+
+
+3. __Login to WeChat and enjoyed!__
+
+
+> Note. __If there is an error in the middle, please right click on WeChat Assistant, find this file -> Show Package Content -> Contents -> Data -> Install.sh, drag it into the terminal and press the enter__
 ## License
 ```
 Copyright 2019, Jason
