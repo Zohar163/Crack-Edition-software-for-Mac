@@ -22,6 +22,7 @@ Mac 各类破解版软件
 * <a href="#7">CorelCAD 2018 for Mac(CAD设计软件)</a>
 * <a href="#8">SecureCRT for Mac(SSH传输工具)</a>
 * <a href="#9">Photoshop cc 2019 mac(附ps2019破解补丁)</a>
+* <a href="#10">Final Cut Pro X for Mac(FCPX专业视频剪辑软件最新破解版)</a>
 
 
 ## 如何使用
@@ -241,6 +242,37 @@ Mac 各类破解版软件
 
 > 个别用户若登录ID、主页可能会显示剩余天数或试用结束，请无视之，不影响使用。
 > 优化篇：启用Photoshop CC 2019破解版，我们可以打开ps软件菜单栏中的首选项，勾选【停用“主页”屏幕】，然后点击确定！这样每次打开ps就不会一直提示载入主页屏幕，卡在登录页面
+
+
+
+
+
+
+### 10. <a name="10">Final Cut Pro X for Mac(FCPX专业视频剪辑软件最新破解版)</a>
+***
+
+#####    软件说明
+>_Final Cut Pro X 被誉为Mac上最好用最专业的视频剪辑软件，今天和大家分享是Final Cut Pro 10.4.4最新版本。新版的Final Cut Pro X for Mac新增模糊、光晕等 360° 效果，同时增加在性能方面也有了显著提升。Final Cut Pro mac 中文版还能与fcpx插件搭配使用，为用户提供最快速、最好用的视频剪辑服务。此次与大家分享的是Final Cut Pro mac 破解版，软件已经为大家破解激活，同时提供中文语言界面，让您畅享Final Cut Pro X 10.4.4版本新功能。_
+
+#####  下载地址
+[点击下载](https://mac2.orsoon.com/mac/201712/Final_Cut_Pro_ADHKI.dmg?EOrIiMVD)
+
+##### 破解方式
+1. __正常流程安装软件__
+
+![cut1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_1.png)
+
+2. __安装完成后打开会出现如下错误__
+
+![cut2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_2.png)
+
+3. __关闭当前页面，在应用程序中找到Final Cut Pro，按住键盘上的control右键然后打开__
+
+![cut3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_3.png)
+
+4. __尽情的享受吧（只有第一次需要用这种方法打开，以后不用每次都这么操作）__
+
+![cut5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_5.png)
 
 ## License
 ```

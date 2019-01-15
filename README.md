@@ -23,6 +23,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#7">CorelCAD 2018 for Mac</a>
 * <a href="#8">SecureCRT for Mac</a>
 * <a href="#9">Photoshop cc 2019 mac</a>
+* <a href="#10">Final Cut Pro X for Mac</a>
 
 
 ## How to use it
@@ -243,6 +244,38 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 > If individual users log on to the ID, home page may show the remaining days or the end of the trial, please ignore it and do not affect the use.
   Optimization: Enable Photoshop CC 2019 cracked version, we can open the preferences in the PS software menu bar, check "Deactivate home page" screen, and click OK! This way, each time you open PS, you won't always prompt to load the home screen and card it on the login page.
+
+
+
+
+
+
+
+### 10. <a name="10">Final Cut Pro X for Mac</a>
+***
+
+#####    Software introduction
+>_Final Cut Pro X is known as the best use of the most professional video clip software on the Mac. Today, it is the latest version of Final Cut Pro 10.4.4. The new version of the Final Cut Pro X for Mac adds 360 ° effects such as blur and Halo, while the increase also has a significant improvement in performance. The final Cut Pro Mac Chinese version can also be used in conjunction with the FCPX plug-in to provide users with the fastest and best used video clip service. This time we share with you the Final Cut Pro Mac cracked version. The software has been activated for everyone to crack, while providing a Chinese language interface to allow you to enjoy the new features of Final Cut Pro X 10.4.4._
+
+#####  Download
+[Download](https://mac2.orsoon.com/mac/201712/Final_Cut_Pro_ADHKI.dmg?EOrIiMVD)
+
+##### Cracking Method
+1. __Normal process installation software__
+
+![cut1](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_1.png)
+
+2. __The following errors occur when opening after installation__
+
+![cut2](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_2.png)
+
+3. __Close the current page, find Final Cut Pro in the application, hold down the key control on the keyboard and open it__
+
+![cut3](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_3.png)
+
+4. __Enjoy（Only the first time it needs to be opened this way, not every time.）__
+
+![cut5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/cut_5.png)
 
 ## License
 ```
