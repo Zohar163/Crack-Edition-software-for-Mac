@@ -26,6 +26,7 @@ Mac 各类破解版软件
 * <a href="#11">Edraw max for mac(亿图图示 mac)</a>
 * <a href="#12">Parallels Desktop13 for Mac(PD虚拟机)</a>
 * <a href="#13">WeChatPlugin for Mac(mac微信小助手)</a>
+* <a href="#14">Paw for Mac</a>
 
 
 
@@ -414,7 +415,25 @@ Mac 各类破解版软件
 
 ##### 软件相关截图
 
-![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png)
+![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png). 
+
+### 14. <a name="14">Paw for mac</a>
+***
+
+
+
+#####    软件说明
+>_Paw for Mac 破解版是一款运行在Mac平台上优秀的HTTP客户端，Paw Mac破解版具备一体化API开发工具，功能齐全，Paw for Mac可帮助您构建HTTP请求，检查服务器的响应甚至生成客户端代码，未来软件园为大家带来Paw for Mac破解版下载，无需Paw for Mac 注册码就能使用。 _
+
+#####  下载地址
+[点击下载](http://mac2.orsoon.com:2523/mac/201709/Paw.YTRET.dmg?xrSbH4vG)
+
+##### 破解方式
+>__安装自动破解__
+
+##### 软件相关截图
+...
+
 
 ## License
 ```
