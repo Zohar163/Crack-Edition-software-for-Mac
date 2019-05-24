@@ -43,7 +43,7 @@ Mac 各类破解版软件
 >期盼已久的cleanmymac4 Mac中文破解版上线了，作为CleanMyMac的升级版，cleanmymac x 中文破解版集所有功能于一身的先进程序卸载清理器，使用cleanmymac x 中文破解版只需两个简单步骤就可以把系统里那些乱七八糟的无用文件统统清理掉，节省宝贵的磁盘空间。cleanmymac x个人认为X代表界面上的最大升级，功能方面有更多增加，与最新macOS系统更加兼容，流畅地与系统性能更加结合，静默清理、记录更新、清洁缓存、快速和安全删除、卸载应用程序和清空回收站等重要功能。
 
 #####  下载地址
-[点击下载](http://mdown.orsoon.com:5898/mac/201811/8fb5029b58bb74feb937fdcd8394cc82.dmg?g23aTVGc)
+[点击下载](http://mdown.orsoon.com:1213/mac/201811/8fb5029b58bb74feb937fdcd8394cc82.dmg?KdvlWTIC)
 
 ##### 破解方式
 >安装直接使用即可
