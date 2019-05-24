@@ -27,6 +27,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#11">Edraw max for mac</a>
 * <a href="#12">Parallels Desktop13 for Mac</a>
 * <a href="#13">WeChatPlugin for Mac</a>
+* <a href="#14">Paw for Mac</a>
 
 
 ## How to use it
@@ -389,7 +390,17 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 
 
 
-![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png)
+![pl_5](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/pl_5.png). 
+
+### 14. <a name="14">Paw for Mac</a>. 
+***. 
+#####  Download
+[Download](http://mac2.orsoon.com:2523/mac/201709/Paw.YTRET.dmg?xrSbH4vG). 
+
+##### Cracking Method
+>__Install directly to automatically crack__.   
+##### Software screenshot. 
+...
 
 ## License
 ```
